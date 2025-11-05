@@ -1,6 +1,7 @@
-#Ricette di Famiglia
+# Ricette di Famiglia
 
 
-#Ricette di famiglia
+# Ricette di famiglia
+
 spaghetti1.md
-ricetta: aglio, olio e peperoncino
+ricetta: aglio, olio extra vergine d'oliva e peperoncino
