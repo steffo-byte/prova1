@@ -2,7 +2,8 @@
 Il nostro piatto preferito
 
 ## Ingredienti 
-* Spaghetti
+* Spaghetti numero 5
 * Aglio
 * Olio
+
 * Pereroncino
